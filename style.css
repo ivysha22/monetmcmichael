@@ -1,0 +1,52 @@
+h1{
+	text-align:center;
+	font-size:50px;
+	background-color:; 
+	font-family:serif;
+	color:hotpink;
+}
+span{
+	background-color: ;
+}
+.about{
+	/*text-align: center;*/
+	/*border:solid black 5px;*/
+	height:500px;
+}
+.education{
+	/*text-align: center;*/
+	/*border:solid black 5px;*/
+}
+.archievements{
+	/*border:solid black 5px;*/
+	text-align: center;
+}
+.family{
+/*border:solid black 5px;*/
+text-align: center;
+}
+img{
+	box-sizing: border;
+	height:300px;
+	width:300px;
+	object-fit: cover;
+}
+.column{
+	/*padding:5px;*/
+	/*width:33%;*/
+	float:left;
+
+}
+.row{
+	float:left;
+}
+.relationship{
+	/*border:solid black 5px;*/
+	/*text-align: center;*/
+}
+h2{
+	color:orange;
+}
+body{
+	border: solid black 10px;
+}
